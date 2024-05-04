@@ -1,6 +1,6 @@
 ---
 title: "Hello, Welcome!"
-date: 2024-04-25 00:00:00 +0800
+date: 2024-04-25 00:00:00 +0000
 categories: [About, Welcome]
 tags: [About, Welcome, Start, First-Day!]
 ---
