@@ -3,9 +3,6 @@ title: "Raspberry Pi 4 vs. Raspberry Pi 5: A Nice Little Comparison"
 date: 2024-09-16 18:39:00 -0400
 categories: [Technology, Raspberry Pi]
 tags: [Raspberry Pi, SBC, Comparison]
-image:
-  path: /assets/img/rpi5.jpg
-  alt: "Raspberry Pi 4 vs. Raspberry Pi 5"
 toc: true
 ---
 
